@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quiz 1</string>
+    <string name="username">username</string>
+    <string name="todo">todo</string>
+    <string name="password">password</string>
+    <string name="forget_password">forget password</string>
+    <string name="login">LOGIN</string>
+    <string name="dont_have_an_account_sign_up">Dont have an account ? sign up</string>
+</resources>
